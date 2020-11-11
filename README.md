@@ -3,9 +3,9 @@
 Projeto leitura de placas com acionamento de portão
 
 ## 🚀 Tecnologias
-- Arduino 
-- Python 
-- OpenCV
+- [Arduino](https://www.arduino.cc/en/Main/software)
+- [Python](https://www.python.org) 
+- [OpenCV](https://opencv.org)
 
 ## ⚡ Passos do desafio
 
