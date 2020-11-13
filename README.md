@@ -23,7 +23,7 @@ Esse projeto foi um trabalho desenvolvido durante a matéria de [Tópicos Especi
 3. Utilizando a técnica demonstrada OCR ou a técnica indicada Tesseract, irá ler a placa e reconhecerá: letra/número.
 4. Uma vez reconhecida a placa verificar se é uma placa registrada no próprio Python, Se sim enviar o comando para o Arduino acionar o servo motor para simular a abertura do portão, senão demonstrar que esta placa não está cadastrada e ligar um led vermelho para indicar erro!
 
-## ⚙️ Passo a passo do que fazer
+## ⚙️ Tutorial
 
 Para que tudo funcione de forma correta, siga os passos a seguir:
 1. É preciso ter os componentes eletrônicos citados anteriormente e colocar nos pinos corretos que estão no arquivo "Cdg_Arduino.ino". 
