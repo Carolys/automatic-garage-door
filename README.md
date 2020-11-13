@@ -3,7 +3,7 @@
 ## 📖 Sobre o projeto
 O Automatic Garage Door tem o objetivo de ler placas de veículos para o acionamento automático de portão de residências.
 Isso é possível por meio de uma leitura da placa que compara com uma placa já colocada no sistema e assim se as placas são iguais, um servo motor é acionado em um ângulo para representar o portão de uma garagem sendo aberta. Caso as placas forem distintas, uma led vermelha é acionada para indicar erro.
-Esse projeto foi um trabalho desenvolvido durante a matéria de [Tópicos Especiais de Software](https://github.com/Carolys/course-information-systems/tree/master/special-software-topics)** da graduação de Sistemas de Informação, em novembro de 2020.
+Esse projeto foi um trabalho desenvolvido durante a matéria de **[Tópicos Especiais de Software](https://github.com/Carolys/course-information-systems/tree/master/special-software-topics)** da graduação de Sistemas de Informação, em novembro de 2020.
 
 ## 🚀 Tecnologias
 - [Arduino](https://www.arduino.cc/en/Main/software)
