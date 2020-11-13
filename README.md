@@ -11,10 +11,10 @@ Esse projeto foi um trabalho desenvolvido durante a matéria de [Tópicos Especi
 - [OpenCV](https://opencv.org)
 
 ## 🔌 Componentes eletrônicos
-1 Arduino
-1 Led (vermelha)
-1 Servo Motor (foi utilizado no projeto o Micro Servo Tower Pro 9g Sg-90)
-1 Webcam
+- 1 Arduino
+- 1 Led (vermelha)
+- 1 Servo Motor (foi utilizado no projeto o Micro Servo Tower Pro 9g Sg-90)
+- 1 Webcam
 
 ## ⚡ Passos do desafio
 
@@ -23,7 +23,7 @@ Esse projeto foi um trabalho desenvolvido durante a matéria de [Tópicos Especi
 3. Utilizando a técnica demonstrada OCR ou a técnica indicada Tesseract, irá ler a placa e reconhecerá: letra/número.
 4. Uma vez reconhecida a placa verificar se é uma placa registrada no próprio Python, Se sim enviar o comando para o Arduino acionar o servo motor para simular a abertura do portão, senão demonstrar que esta placa não está cadastrada e ligar um led vermelho para indicar erro!
 
-## ⚙️ Funcionamento
+## ⚙️ Passo a passo do que fazer
 
 Para que tudo funcione de forma correta, siga os passos a seguir:
 1. É preciso ter os componentes eletrônicos citados anteriormente e colocar nos pinos corretos que estão no arquivo "Cdg_Arduino.ino". 
@@ -43,4 +43,4 @@ Esse projeto foi feito com base no projeto **[OpenCV 3 License Plate Recognition
 ---
 
 <p align="center">Orientação do professor Leandro Vasconcelos</p>
-<p align="center">Desenvolvido com 💜 por Carolina Yasue, Matheus Stella, Luís Kosowski e Camila Rody</p>
+<p align="center">Desenvolvido com 💜 por Carolina Yasue, Matheus Stella, Luis Kosowski e Camila Rody</p>
